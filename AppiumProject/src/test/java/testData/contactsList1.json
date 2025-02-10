@@ -1,0 +1,19 @@
+[
+
+{
+   "firstName": "Sundar",
+   "lastName": "Pichai",
+   "company": "Google",
+   "phone": "+1-650-253-0000",
+   "email": "sundar@google.com"
+},
+
+{
+  "firstName": "Tim",
+  "lastName": "Cook",
+  "company": "Apple",
+  "phone": "+1-408-996-1010",
+  "email": "tim@apple.com"
+}
+
+]

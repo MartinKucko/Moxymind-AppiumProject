@@ -1,0 +1,19 @@
+[
+
+{
+   "firstName": "Satya",
+   "lastName": "Nadella",
+   "company": "Microsoft",
+   "phone": "+1-425-882-8080",
+   "email": "satyan@microsoft.com"
+},
+
+{
+  "firstName": "Elon",
+  "lastName": "Musk",
+  "company": "Tesla",
+  "phone": "+1-650-681-5000",
+  "email": "elon@tesla.com"
+}
+
+]
